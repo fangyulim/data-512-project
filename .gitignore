@@ -160,3 +160,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+wild_fire_data/
+reports/reflection.docx
+resources/wildfire/
+modules/wildfire/
+reports/reflection.docx
+wild_fire_data/USGS_Wildland_Fire_Combined_Dataset.json
+wild_fire_data/usgs_wildland_fire_combined_dataset.json.xml
