@@ -44,7 +44,7 @@ project-main/ <br>
 |   |-- [num_fires_every_50_miles](./graphs/num_fires_every_50_miles.png)  
 |-- reports/        
 |   |-- [figure_description_and_reflection.pdf](./reports//figure_description_and_reflection.pdf)
-|   |-- [final_report.pdf](./reports/final_report.pdf)
+|   |-- [final_report.docx](./reports/final_report.docx)
 |-- README.md       
 |-- LICENSE         
 
