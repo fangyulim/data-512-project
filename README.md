@@ -42,12 +42,17 @@ project-main/ <br>
 |   |-- [acres_burned_per_year_max_650_miles_log_scale](./graphs/acres_burned_per_year_max_650_miles_log_scale.png)    
 |   |-- [aqi_vs_predicted_smoke](./graphs/aqi_vs_predicted_smoke.png)       
 |   |-- [num_fires_every_50_miles](./graphs/num_fires_every_50_miles.png)  
-|-- reports/        
-|   |-- [figure_description_and_reflection.pdf](./reports//figure_description_and_reflection.pdf)
-|   |-- [final_report.docx](./reports/final_report.docx)           
+|-- reports/         
+|   |-- [final_report.docx](./reports/final_report.docx)       
+|   |-- [final_report.zip](./reports/final_report.zip)     
 |-- README.md       
 |-- LICENSE         
 
+# Reports 
+- [final_report.docx](./reports/final_report.docx)
+Word format for the final report.
+- [final_report.zip](./reports/final_report.zip)
+Zipped pdf format of final report due to size constraint.
 
 # Intermediary files
   - [avg_aqi_per_year](./intermediate_data/avg_aqi_per_year.csv)
