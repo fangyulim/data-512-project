@@ -14,7 +14,7 @@ Key findings:
 You can find more information about my findings in the [final_report](reports/final_report.docx).
 
 # Project Structure*
-*THE USGS Wildland dataset can be downloaded [here](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81). The files downloaded were the GepJSON Files.zip*       
+*The USGS Wildland dataset can be downloaded [here](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81). The files downloaded were the GepJSON Files.zip*       
 
 project-main/ <br>
 | <br>
